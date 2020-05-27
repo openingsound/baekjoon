@@ -1,0 +1,2 @@
+C:\Users\김진현\Desktop\백준\baekjoon\05.27.백준\Debug\05.27.백준.exe
+C:\Users\김진현\Desktop\백준\baekjoon\05.27.백준\Debug\05.27.백준.pdb
